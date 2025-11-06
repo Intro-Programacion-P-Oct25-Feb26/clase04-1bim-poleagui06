@@ -31,8 +31,10 @@ public class Ejemplo061 {
         // usamos %f para reemplazar los valore decimales
         // System.out.printf("%s\n\n%s\n\n%s\n", nombreEstudiante, 
         //        apellidoEstudiante, nacimiento);
-        /* System.out.printf("Nombre:%s\n\n%s\n\n%s\n", nombreEstudiante, 
-         apellidoEstudiante); */
+        /* 
+           System.out.printf("Nombre:%s\n\n%s\n\n%s\n", nombreEstudiante, 
+           apellidoEstudiante); 
+        */
         
         System.out.printf("Nombre:\n\t%s\nApellido:\n\t%s\nEdad: %s\nDirección:"
                     + "\n\n\t%s\n----\nUniversidad: %s\nCiclo: %s\nAsignatura: "

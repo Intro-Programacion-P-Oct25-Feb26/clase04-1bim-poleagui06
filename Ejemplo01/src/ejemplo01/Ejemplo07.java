@@ -12,7 +12,7 @@ package ejemplo01;
 public class Ejemplo07 {
     public static void main(String[] args) {
         // Ejemplo de uso de printf con decimales
-        
+        // %s => variable general, %f => variable decimal, %d => vaiable entera.
         double numerador = 10.0;
         double denominador = 3.0;
         double resultado = numerador / denominador;
